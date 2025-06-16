@@ -13,6 +13,3 @@ Research interests: Empirical Industrial Organization, Production Economics, and
 
 My work focuses on identifying and estimating firm productivity using structural models and advanced econometric techniques. I examine production technologies across various sectors, including manufacturing, healthcare, and banking. 
 
-Here is my CV /assets/YuluWang_cv.pdf
-
-
